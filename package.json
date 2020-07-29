@@ -25,7 +25,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://github.com/IryArkhy/yalantis-react.js-school",
+  "homepage": "https://IryArkhy.github.io/yalantis-react.js-school",
   "browserslist": {
     "production": [
       ">0.2%",
