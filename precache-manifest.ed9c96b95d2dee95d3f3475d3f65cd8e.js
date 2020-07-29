@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61f5f03b5119a4718a40c964e1a86651",
+    "revision": "8880242d11c8bb90a0c8f96fc550ca28",
     "url": "/yalantis-react.js-school/index.html"
   },
   {
