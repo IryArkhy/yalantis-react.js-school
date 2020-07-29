@@ -1,2 +1,1 @@
-# goit-react-hw-04-movies
-goit-react-hw-04-movies
+# Тестове завдання для Yalantis React.js School (online)
