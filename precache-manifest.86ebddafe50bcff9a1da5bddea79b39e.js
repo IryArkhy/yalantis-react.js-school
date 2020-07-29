@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "883a11765935bffc7886673715ef8725",
+    "revision": "61f5f03b5119a4718a40c964e1a86651",
     "url": "/yalantis-react.js-school/index.html"
   },
   {
-    "revision": "46ec30baa358250837ce",
+    "revision": "2115670fbfff8be26b11",
     "url": "/yalantis-react.js-school/static/css/main.3444bfbf.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yalantis-react.js-school/static/js/2.fbe938af.chunk.js"
   },
   {
-    "revision": "46ec30baa358250837ce",
-    "url": "/yalantis-react.js-school/static/js/main.cdda10c9.chunk.js"
+    "revision": "2115670fbfff8be26b11",
+    "url": "/yalantis-react.js-school/static/js/main.a47f8088.chunk.js"
   },
   {
     "revision": "0301b63842735c2ecbc5",
