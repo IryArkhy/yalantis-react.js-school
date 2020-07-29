@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/IryArkhy/yalantis-react.js-school/static/css/main.3444bfbf.chunk.css",
-    "main.js": "/IryArkhy/yalantis-react.js-school/static/js/main.cdda10c9.chunk.js",
-    "main.js.map": "/IryArkhy/yalantis-react.js-school/static/js/main.cdda10c9.chunk.js.map",
-    "runtime-main.js": "/IryArkhy/yalantis-react.js-school/static/js/runtime-main.05b63f59.js",
-    "runtime-main.js.map": "/IryArkhy/yalantis-react.js-school/static/js/runtime-main.05b63f59.js.map",
-    "static/js/2.fbe938af.chunk.js": "/IryArkhy/yalantis-react.js-school/static/js/2.fbe938af.chunk.js",
-    "static/js/2.fbe938af.chunk.js.map": "/IryArkhy/yalantis-react.js-school/static/js/2.fbe938af.chunk.js.map",
-    "index.html": "/IryArkhy/yalantis-react.js-school/index.html",
-    "precache-manifest.62085129ce690635bc0f2f1a6eff2ef7.js": "/IryArkhy/yalantis-react.js-school/precache-manifest.62085129ce690635bc0f2f1a6eff2ef7.js",
-    "service-worker.js": "/IryArkhy/yalantis-react.js-school/service-worker.js",
-    "static/css/main.3444bfbf.chunk.css.map": "/IryArkhy/yalantis-react.js-school/static/css/main.3444bfbf.chunk.css.map"
+    "main.css": "/yalantis-react.js-school/static/css/main.3444bfbf.chunk.css",
+    "main.js": "/yalantis-react.js-school/static/js/main.cdda10c9.chunk.js",
+    "main.js.map": "/yalantis-react.js-school/static/js/main.cdda10c9.chunk.js.map",
+    "runtime-main.js": "/yalantis-react.js-school/static/js/runtime-main.b14373cb.js",
+    "runtime-main.js.map": "/yalantis-react.js-school/static/js/runtime-main.b14373cb.js.map",
+    "static/js/2.fbe938af.chunk.js": "/yalantis-react.js-school/static/js/2.fbe938af.chunk.js",
+    "static/js/2.fbe938af.chunk.js.map": "/yalantis-react.js-school/static/js/2.fbe938af.chunk.js.map",
+    "index.html": "/yalantis-react.js-school/index.html",
+    "precache-manifest.8f8150cddddd1ce767b1422584d37f59.js": "/yalantis-react.js-school/precache-manifest.8f8150cddddd1ce767b1422584d37f59.js",
+    "service-worker.js": "/yalantis-react.js-school/service-worker.js",
+    "static/css/main.3444bfbf.chunk.css.map": "/yalantis-react.js-school/static/css/main.3444bfbf.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.05b63f59.js",
+    "static/js/runtime-main.b14373cb.js",
     "static/js/2.fbe938af.chunk.js",
     "static/css/main.3444bfbf.chunk.css",
     "static/js/main.cdda10c9.chunk.js"
