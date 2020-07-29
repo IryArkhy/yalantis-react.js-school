@@ -17,9 +17,9 @@ export default function MonthList({ users, userCounter }) {
   const [anchorEl, setAnchorEl] = useState(null);
   const [currentMonth, setMonth] = useState(0);
 
-  const handlePopoverOpen = event => {
-    setAnchorEl(event.currentTarget);
-    setMonth(event.currentTarget.id);
+  const handlePopoverOpen = ({ currentTarget }) => {
+    setAnchorEl(currentTarget);
+    setMonth(currentTarget.id);
   };
 
   const handlePopoverClose = () => {
